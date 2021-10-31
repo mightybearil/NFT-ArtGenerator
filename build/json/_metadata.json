@@ -1,0 +1,472 @@
+[
+  {
+    "name": "MB Collection #1",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/1.png",
+    "dna": "4b44992c932c51b6b34049477fff91b73d899c76",
+    "edition": 1,
+    "date": 1635682302368,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose4"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bushido"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Baseballpink"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Heart"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #2",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/2.png",
+    "dna": "3cb96e394c3439eec8420cabd6b3db1b1375085b",
+    "edition": 2,
+    "date": 1635682303572,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth4"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose1"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Toto"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "cigarrete"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #3",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/3.png",
+    "dna": "28f5675b2a5062ac9586c29e9ced5dd1aa3f9801",
+    "edition": 3,
+    "date": 1635682304686,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cave"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth2"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose2"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Scary"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Blond"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #4",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/4.png",
+    "dna": "2d0d7420f0cff7656ce90752bb731a1cb245df07",
+    "edition": 4,
+    "date": 1635682305743,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth2"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose3"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Toto"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "cigarrete"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Manga"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #5",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/5.png",
+    "dna": "71971c8d779341f74474bfec3b14ac5c19589211",
+    "edition": 5,
+    "date": 1635682306807,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose4"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Toto"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Heart"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #6",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/6.png",
+    "dna": "e48675e70d2b82a9b8525aca5ff01b3b262a9db5",
+    "edition": 6,
+    "date": 1635682307923,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cave"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth2"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose1"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Scary"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "cigarrete"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Blond"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #7",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/7.png",
+    "dna": "2e587ef4f3619d5afa38c4f650f727754e1515f2",
+    "edition": 7,
+    "date": 1635682309107,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cave"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose1"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Scary"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Blond"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Something"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #8",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/8.png",
+    "dna": "a25fee92ca9b930eef55b99c89b8219fa160785f",
+    "edition": 8,
+    "date": 1635682310691,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose1"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bushido"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Blond"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #9",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/9.png",
+    "dna": "e41c2b40a070180dd5a71c7051e73e33dfe6cabd",
+    "edition": 9,
+    "date": 1635682311706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth4"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose4"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Toto"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "cigarrete"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  },
+  {
+    "name": "MB Collection #10",
+    "description": "Mightybear Test Collection",
+    "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/10.png",
+    "dna": "91bbe972b8d0813ec1d938687a780c341cd31a0a",
+    "edition": 10,
+    "date": 1635682312852,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cave"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth4"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose4"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Scary"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "horn"
+      },
+      {
+        "trait_type": "HeadTop",
+        "value": "Baseballpink"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "Bears Factory INC"
+  }
+]

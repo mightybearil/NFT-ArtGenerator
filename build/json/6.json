@@ -1,0 +1,47 @@
+{
+  "name": "MB Collection #6",
+  "description": "Mightybear Test Collection",
+  "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/6.png",
+  "dna": "e48675e70d2b82a9b8525aca5ff01b3b262a9db5",
+  "edition": 6,
+  "date": 1635682307923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Scary"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cigarrete"
+    },
+    {
+      "trait_type": "HeadTop",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "Bears Factory INC"
+}

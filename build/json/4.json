@@ -1,0 +1,47 @@
+{
+  "name": "MB Collection #4",
+  "description": "Mightybear Test Collection",
+  "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/4.png",
+  "dna": "2d0d7420f0cff7656ce90752bb731a1cb245df07",
+  "edition": 4,
+  "date": 1635682305743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose3"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Toto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cigarrete"
+    },
+    {
+      "trait_type": "HeadTop",
+      "value": "hat"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "Manga"
+    }
+  ],
+  "compiler": "Bears Factory INC"
+}

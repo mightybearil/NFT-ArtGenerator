@@ -1,0 +1,47 @@
+{
+  "name": "MB Collection #1",
+  "description": "Mightybear Test Collection",
+  "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/1.png",
+  "dna": "4b44992c932c51b6b34049477fff91b73d899c76",
+  "edition": 1,
+  "date": 1635682302368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth3"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose4"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Bushido"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "horn"
+    },
+    {
+      "trait_type": "HeadTop",
+      "value": "Baseballpink"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "Heart"
+    }
+  ],
+  "compiler": "Bears Factory INC"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "MB Collection #3",
+  "description": "Mightybear Test Collection",
+  "image": "ipfs://QmU7uPk53zw5P9UyfH6PR3pvmxQHQDtRjeynaTWFGNnL8q/3.png",
+  "dna": "28f5675b2a5062ac9586c29e9ced5dd1aa3f9801",
+  "edition": 3,
+  "date": 1635682304686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose2"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Scary"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "horn"
+    },
+    {
+      "trait_type": "HeadTop",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "Bears Factory INC"
+}
